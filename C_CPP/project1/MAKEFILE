@@ -1,2 +1,4 @@
+#https://www.cs.colby.edu/maxwell/courses/tutorials/maketutor/
+
 main: main.cpp
 	g++ -o main.o main.cpp -I
